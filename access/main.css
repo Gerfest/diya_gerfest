@@ -287,12 +287,12 @@ i.far {
 .sign {
 	width: 134px;
 	height: 54px;
-	background-size: cover;
+	background-size: contain;
 	mix-blend-mode: multiply;
 	position: absolute;
 	margin-left: 0px;
 	margin-top: 23px;
-	background-position: center center;
+	background-position: left;
 	background-repeat: no-repeat;
 }
 
