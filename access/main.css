@@ -14,7 +14,7 @@
 }
 
 html {
-    background: #a2ff99;
+    background: #caf8c0;
     width: 100%;
     height: 100%;
     overflow: hidden;
@@ -390,7 +390,7 @@ i.far {
 .content {
     width: 340px;
     box-shadow: rgba(0, 0, 0, 0.03) 0 14px 28px, rgba(0, 0, 0, 0.05) 0px 12px 10px;
-    background: #c5fcc0;
+    background: #f2fdee;
     border-radius: 9px;
     transition: .3s !important;
     -webkit-backface-visibility: hidden;
