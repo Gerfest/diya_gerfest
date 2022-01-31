@@ -329,14 +329,14 @@ i.far {
     background: rgb(176, 198, 231);
 }
 .covid > div > .razdel {
-    background-color: #a2ff98;
+    background-color: #caf8c0;
 }
 .covid > div > div > .image {
-    border-color: #a2ff98;
+    border-color: #caf8c0;
 }
 
 .image {
-    background-size: cover;
+    background-size: 100% auto;
     background-color: #fff;
     border-width: 2px;
     border-style: solid;
