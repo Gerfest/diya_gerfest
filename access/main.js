@@ -126,7 +126,7 @@ let swiper = new Swiper(".swiper-container", {
 });
 
 let page_colors = [
-    ['#a2ff99', '#c5fcc0'],
+    ['#caf8c0', '#f2fdee'],
     ['#B3C4E3', '#D9E3F0'],
     ['#DAC8D7', '#EDE3EB'],
     ['#C9D8E7', '#E4ECF3'],
